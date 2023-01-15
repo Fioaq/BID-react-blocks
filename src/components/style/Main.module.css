@@ -1,0 +1,8 @@
+.main{
+    box-sizing: border-box;
+    background-color: #e06666;
+    height: 500px;
+    width: 80%;
+    margin-left: 20px;
+    padding: 20px;
+}
